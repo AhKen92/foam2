@@ -1,0 +1,13 @@
+"Metadata": {
+  "scope": "markdown",
+  "prefix": "/meta",
+  "description": "创建这条笔记的元数据",
+  "body": [
+      "---",
+      "title: $1",
+      "date: $CURRENT_YEAR 年$CURRENT_MONTH_NAME $CURRENT_DATE 日",
+      "type: ${2|生活,TODO,思考,知识|}",
+      "tags: $3",
+      "---"
+  ]
+}
