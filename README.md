@@ -39,5 +39,5 @@ As you may have noticed, issues are disabled. With the goal to keep the project 
 > <https://github.com/foambubble/foam>
 
 ## This is testing
+- [[wikilinks]]
 - [[backlinking]]
-- -[[wikilinks]]
