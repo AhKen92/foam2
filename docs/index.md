@@ -1,17 +1,53 @@
-# Foam-mkdocs-template
-Welcome to Foam-mkdocs-template! [[#support roamlinks]]!
+# Using Foam
 
-* How to create this website and share your foam/obsidian notes? See: [[tutorial]]
-* [foam](https://github.com/foambubble/foam)
+Foam is a collection VS Code extensions and recipes that power up the editor
+into a full-blown note taking system. This folder contains user documentation
+describing how to get started using Foam, what its main features are, and
+strategies for getting the most out of Foam. The full docs are included in the
+`foam-template` repo that most users start from.
 
+> See also [[frequently-asked-questions]].
 
-## Support roamlinks
+## Getting Started
 
-| origin                  | convert                             |
-| ----------------------- | ----------------------------------- |
-| `[Git Flow](git_flow.md)` | `[Git Flow](../software/git_flow.md)` |
-| `[[Git Flow]]`            | `[Git Flow](../software/git_flow.md)` |
-| `![[image.png]]`           | `![image.png](../image/imag.png)`      |
-| `[[#Heading identifiers]]` | `[Heading identifiers in HTML](#heading-identifiers-in-html)`|
-| `[[Git Flow#Heading]]`     |  `[Git Flow](../software/git_flow.md#heading)` |
+- [[get-started-with-vscode]]
+- [[recommended-extensions]]
+- [[creating-new-notes]]
+- [[write-notes-in-foam]]
+- [[sync-notes-with-source-control]]
+- [[keyboard-shortcuts]]
+
+## Features
+
+- [[wikilinks.md]]
+- [[tags]]
+- [[backlinking]]
+- [[daily-notes]]
+- [[including-notes]]
+- [[spell-checking]]
+- [[graph-visualization]]
+- [[note-properties]]
+- [[note-templates]]
+- [[paste-images-from-clipboard]]
+- [[custom-markdown-preview-styles]]
+- [[link-reference-definitions]]
+- [[custom-snippets]]
+
+## Recipes
+
+[[recipes]] is a collection of user-contributed patterns that describe different ways you could utilize Foam or integrate it with other tools.
+
+## Publishing
+
+You can publish your Foam notes for consumption in different formats.
+Examples: [[publish-to-github-pages]], [[generate-gatsby-site]], [[publish-to-vercel]]
+
+See [[publishing]] for more details.
+
+## Tools
+
+- [[cli]]
+- [[workspace-janitor]]
+- [[orphans]]
+- [[foam-logging-in-vscode]]
 
